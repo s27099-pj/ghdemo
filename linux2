@@ -1,0 +1,36 @@
+    1  cd Desktop/
+    2  sudo apt instsall vim
+    3  sudo apt install vim
+    4  vim haslo_student.txt
+    5  exiyt
+    6  exit
+    7  ls
+    8  cd Ducuments
+    9  cd Documents
+   10  mkdir lab2
+   11  cd lab2
+   12  touch log log1 log2 log3 log4 log5 log6 log1337 log420
+   13  ls
+   14  ls -l
+   15  ls log 4*
+   16  log*
+   17  ls log*
+   18  ls [l]
+   19  ls -[l]
+   20  ls *og
+   21  ls log
+   22  ls log*
+   23  ls log?
+   24  ls log[1-4]
+   25  ls log[1-4]*
+   26  ls log[^1-4]
+   27  ls -v log[^1-4]
+   28  cp -v log[^1-4] ~/Downloads
+   29  sudo apt install tree
+   30  gfdgfd
+   31  ls -lg
+   32  chmod ug+rx log
+   33  ls -la
+   34  chmod -v 664 log
+   35  hitory > history.txt
+   36  history >history.txt
